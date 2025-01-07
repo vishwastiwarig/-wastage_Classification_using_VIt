@@ -1,0 +1,18 @@
+
+ Requirements
+
+The dependencies for the project are:
+
+txt
+torch
+torchvision
+transformers
+datasets
+evaluate
+accelerate
+scikit-learn
+matplotlib
+pandas
+numpy
+imblearn
+
